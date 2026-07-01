@@ -1,5 +1,3 @@
-# namgilmap
-
 # Namgilmap
 
   Namgilmap is a prototype web app for recording and sharing digital financial asset information after death.
